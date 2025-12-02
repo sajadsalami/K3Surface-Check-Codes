@@ -1,0 +1,1 @@
+This repository contains some Maple codes and Pari/GP codes to check the computations related to the splitting field and generators of elliptic K3 surfaces defined by the equation y^2=x^3+ t^n + 1/t^n for n=2, ..., 6.
