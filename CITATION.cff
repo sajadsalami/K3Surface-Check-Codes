@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Salami"
+  given-names: "Sajad"
+title: "Check codes for computation in:  Generators and splitting fields of certain elliptic $K3$ surfaces"
+version: 1.0.0
+date-released: 2025-12-01
+url: "https://github.com/sajadsalami/K3Surface-Check-Codes"
